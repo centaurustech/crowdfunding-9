@@ -1,0 +1,3 @@
+<?php
+//000000000600a:2:{i:0;a:10:{s:2:"id";s:3:"166";s:4:"name";s:14:"MW猫力珠宝";s:8:"group_id";s:2:"18";s:3:"url";s:21:"http://mollywang.com/";s:9:"is_effect";s:1:"1";s:4:"sort";s:2:"15";s:3:"img";s:0:"";s:11:"description";s:0:"";s:5:"count";s:1:"0";s:10:"show_index";s:1:"1";}i:1;a:10:{s:2:"id";s:3:"164";s:4:"name";s:14:"VITAGONG宫伟";s:8:"group_id";s:2:"18";s:3:"url";s:20:"http://vitagong.com/";s:9:"is_effect";s:1:"1";s:4:"sort";s:2:"13";s:3:"img";s:0:"";s:11:"description";s:0:"";s:5:"count";s:1:"0";s:10:"show_index";s:1:"1";}}
+?>
